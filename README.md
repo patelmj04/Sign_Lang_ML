@@ -37,7 +37,7 @@ The dataset consists of a diverse set of images representing different sign lang
 ### 🔹 Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Sign-Language-Recognition.git
+   git clone https://github.com/patelmj04/Sign-Language-Recognition.git
    cd Sign-Language-Recognition
    ```
 2. Install the required dependencies:
