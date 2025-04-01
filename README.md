@@ -51,7 +51,8 @@ The dataset consists of a diverse set of images representing different sign lang
 4. Open your browser and go to `http://127.0.0.1:5000/` to use the system.
 
 ## 📸 Screenshots
-![Demo Image](path/to/screenshot.png)
+![image](https://github.com/user-attachments/assets/b19ce499-9e72-4047-ab69-6998c43c4b3a)
+
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork this repository, create an issue, or submit a pull request.
