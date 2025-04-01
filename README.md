@@ -28,7 +28,7 @@ The dataset consists of a diverse set of images representing different sign lang
 
 ## 🚀 Installation & Usage
 ### 🔹 Prerequisites
-- Python 3.x
+- Python 3.12
 - TensorFlow
 - OpenCV
 - Flask
