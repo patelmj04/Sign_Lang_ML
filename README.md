@@ -59,8 +59,3 @@ Contributions are welcome! Feel free to fork this repository, create an issue, o
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-## 📬 Contact
-For any queries or collaboration opportunities, feel free to reach out!  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
